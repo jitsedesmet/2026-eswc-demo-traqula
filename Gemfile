@@ -20,7 +20,7 @@ gem 'csl-styles'
 
 group :development do
   # live view
-  gem 'guard-nanoc', '~> 2.1.2'
+  gem 'guard-nanoc', '~> 2.1.10'
   gem 'guard-rack'
   gem 'guard-livereload'
   gem 'rack'
