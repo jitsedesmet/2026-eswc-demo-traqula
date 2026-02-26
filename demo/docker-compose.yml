@@ -1,0 +1,8 @@
+services:
+  webapp:
+    image: ghcr.io/jitsedesmet/demo-mixed-composability:buildcache
+    build:
+      context: .
+      network: host
+    ports:
+      - "3000:3000"
