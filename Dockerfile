@@ -1,4 +1,4 @@
-FROM ruby:3.2 AS builder
+FROM ruby:4 AS builder
 WORKDIR /app/web
 
 COPY Gemfile Gemfile.lock ./

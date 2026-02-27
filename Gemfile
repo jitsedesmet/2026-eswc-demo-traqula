@@ -35,3 +35,5 @@ group :test do
   # validation
   gem 'w3c_validators', '~> 1.3.1'
 end
+
+gem "csv", "~> 3.3"
