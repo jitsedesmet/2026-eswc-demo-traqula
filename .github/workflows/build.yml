@@ -24,3 +24,11 @@ jobs:
         run: |
           bundle exec nanoc compile
           bundle exec nanoc check internal_links mixed_content stale
+  build-img:
+    uses: ./.github/workflows/build-might-push.yml
+    permissions:
+      packages: read
+      contents: read
+    with:
+      push: false
+
