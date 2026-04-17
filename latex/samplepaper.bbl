@@ -1,0 +1,101 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{jena-construct-quad}
+Apache jena: Arq - construct quad (2024),
+  \url{https://jena.apache.org/documentation/query/construct-quad.html#Grammar}
+
+\bibitem{oxigraph-adjust}
+Oxigraph: Sep 0002: calendar and duration operations (2024),
+  \url{https://github.com/oxigraph/oxigraph/wiki/SPARQL#sep-0002-calendar-and-duration-operations}
+
+\bibitem{virtuoso-full-text-search}
+Virtuoso: Using full text search in sparql (2024),
+  \url{https://docs.openlinksw.com/virtuoso/sparqlextensions/#rdfsparqlrulefulltext}
+
+\bibitem{shacl-compact}
+Alexiev, V., Wright, J.: Shacl compact syntax. Tech. rep. (Aug 2025),
+  \url{https://w3c.github.io/data-shapes/shacl12-cs/}
+
+\bibitem{smartkg}
+Azzam, A., Fern{\'a}ndez, J.D., Acosta, M., Beno, M., Polleres, A.: Smart-kg:
+  hybrid shipping for sparql querying on the web. In: Proceedings of The Web
+  Conference 2020. pp. 984--994 (2020)
+
+\bibitem{geosparql}
+Battle, R., Kolas, D.: Geosparql: enabling a geospatial semantic web. Semantic
+  Web Journal  \textbf{3}(4),  355--370 (2011)
+
+\bibitem{shacl-rules}
+David, R., Habgood, D., Steyskal, S.: Shacl 1.2 rules. Tech. rep. (Feb 2026),
+  \url{https://www.w3.org/TR/shacl12-rules/}
+
+\bibitem{spec:sparqlprot}
+Feigenbaum, L., Todd~Williams, G., Grant~Clark, K., Torres, E.: {SPARQL} 1.1
+  protocol. Rec., W3C (Mar 2013),
+  \url{https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/}
+
+\bibitem{rdf12-charter}
+Gschwend, A., Lassila, O.: Rdf & sparql working group charter  (apr 2025),
+  \url{https://www.w3.org/2025/04/rdf-star-wg-charter.html}
+
+\bibitem{spec:sparqllang}
+Harris, S., Seaborne, A., Prud'hommeaux, E.: {SPARQL} 1.1 query language.
+  Recommendation, W3C (Mar 2013),
+  \url{https://www.w3.org/TR/2013/REC-sparql11-query-20130321/}
+
+\bibitem{tsparql}
+Hartig, O.: Querying trust in rdf data with tsparql. In: European Semantic Web
+  Conference. pp. 5--20. Springer (2009)
+
+\bibitem{sparql-1-2}
+Hartig, O., Seaborne, A., Taelman, R., Williams, G., Tanon, T.P.: {SPARQL} 1.2
+  query language. Tech. rep. (Apr 2025),
+  \url{https://www.w3.org/TR/sparql12-query/}
+
+\bibitem{iso-gql}
+Information technology — database languages — gql. Standard, International
+  Organization for Standardization, Geneva, CH (Apr 2024)
+
+\bibitem{traqula}
+Smet, J.D., Taelman, R.: Traqula: Providing a foundation for the evolving
+  sparql ecosystem through modular query parsing, transformation, and
+  generation. In: The Semantic Web - 23nd European Semantic Web Conference,
+  {ESWC} 2026 (2026), \url{https://traqula-resource.jitsedesmet.be/}
+
+\bibitem{comunica}
+Taelman, R., Herwegen, J.V., Sande, M.V., Verborgh, R.: Comunica: {A} modular
+  {SPARQL} query engine for the web. In: Vrandecic, D., Bontcheva, K.,
+  Su{\'{a}}rez{-}Figueroa, M.C., Presutti, V., Celino, I., Sabou, M., Kaffee,
+  L., Simperl, E. (eds.) The Semantic Web - {ISWC} 2018 - 17th International
+  Semantic Web Conference, Monterey, CA, USA, October 8-12, 2018, Proceedings,
+  Part {II}. Lecture Notes in Computer Science, vol. 11137, pp. 239--255.
+  Springer (2018). \doi{10.1007/978-3-030-00668-6\_15},
+  \url{https://doi.org/10.1007/978-3-030-00668-6\_15}
+
+\bibitem{componentsjs}
+Taelman, R., Van~Herwegen, J., Vander~Sande, M., Verborgh, R.: Components.js:
+  Semantic dependency injection. Semantic Web Journal  (Jan 2022),
+  \url{https://linkedsoftwaredependencies.github.io/Article-System-Components/}
+
+\bibitem{graphql-ld}
+Taelman, R., Vander~Sande, M., Verborgh, R.: Graphql-ld: Linked data querying
+  with graphql. In: Proceedings of the 17th International Semantic Web
+  Conference: Posters and Demos (Oct 2018),
+  \url{https://comunica.github.io/Article-ISWC2018-Demo-GraphQlLD/}
+
+\bibitem{tpf}
+Verborgh, R., Sande, M.V., Hartig, O., Herwegen, J.V., Vocht, L.D., Meester,
+  B.D., Haesendonck, G., Colpaert, P.: Triple pattern fragments: {A} low-cost
+  knowledge graph interface for the web. J. Web Semant.  \textbf{37-38},
+  184--206 (2016). \doi{10.1016/J.WEBSEM.2016.03.003},
+  \url{https://doi.org/10.1016/j.websem.2016.03.003}
+
+\bibitem{sparql-adjust}
+Williams, G.T.: Sparql dev: Add support durations, dates, and times. Tech. rep.
+  (Jan 2025),
+  \url{https://github.com/w3c/sparql-dev/blob/7350808a4f0b7ca7c2a8d823b4e7d8958dfb073b/SEP/SEP-0002/sep-0002.md}
+
+\end{thebibliography}

@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: samplepaper.aux
+The style file: splncs04.bst
+Database file #1: references.bib
+Warning--to sort, need author or key in virtuoso-full-text-search
+Warning--to sort, need author or key in jena-construct-quad
+Warning--to sort, need author or key in oxigraph-adjust
+Warning--missing institution in shacl-compact
+Warning--missing institution in shacl-rules
+Warning--empty journal in rdf12-charter
+Warning--missing institution in sparql-1-2
+Warning--empty author in iso-gql
+Warning--missing institution in sparql-adjust
+You've used 19 entries,
+            2850 wiz_defined-function locations,
+            698 strings with 8236 characters,
+and the built_in function-call counts, 9578 in all, are:
+= -- 749
+> -- 304
+< -- 8
++ -- 125
+- -- 106
+* -- 645
+:= -- 1218
+add.period$ -- 22
+call.type$ -- 19
+change.case$ -- 124
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 893
+empty$ -- 887
+format.name$ -- 120
+if$ -- 2037
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 182
+newline$ -- 63
+num.names$ -- 32
+pop$ -- 384
+preamble$ -- 1
+purify$ -- 88
+quote$ -- 0
+skip$ -- 205
+stack$ -- 0
+substring$ -- 492
+swap$ -- 453
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 9
+while$ -- 65
+width$ -- 21
+write$ -- 195
+(There were 9 warnings)
